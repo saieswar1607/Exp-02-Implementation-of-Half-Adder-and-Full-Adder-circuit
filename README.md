@@ -39,9 +39,9 @@ Program:
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 
-Developed by: Koduru Sanath Kumar Reddy
+Developed by: Sai Eswar Kandukuri
 
-RegisterNumber:  212221240024
+RegisterNumber:  212221240020
 
 HALF ADDER
 ```
